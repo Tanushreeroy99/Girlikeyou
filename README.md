@@ -1,2 +1,2 @@
-# Girlikeyou
-my personal repository
+#Hi there
+#About me
